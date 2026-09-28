@@ -1,0 +1,19 @@
+# Local dataset
+data/
+03 Dataset/
+CBIS-DDSM/
+
+# Trained models
+Models/*.keras
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
